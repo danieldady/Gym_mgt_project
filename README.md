@@ -1,2 +1,2 @@
-# Gym_mgt_project
-management of Gym
+# IG_project
+website of insight group ltd
